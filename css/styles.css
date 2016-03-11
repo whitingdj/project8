@@ -85,6 +85,13 @@ header {
   color: lightgreen;
 }
 
+.sub{
+  display: inline-block;
+  margin: 0;
+  font-size: 2em;
+  color: tomato;
+}
+
 .tag {
   color: black;
   padding: 10px;
