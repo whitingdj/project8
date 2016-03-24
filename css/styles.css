@@ -173,6 +173,10 @@ legend{
   margin: 0 auto;
 }
 
+.focus-state:focus{
+  background-color: lightgreen;
+}
+
 fieldset{
   padding: 1em;
   margin: 1em;
